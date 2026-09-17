@@ -1,4 +1,4 @@
 window.KAIGO_CONFIG = {
   supabaseUrl: 'https://lluwivvpjtfmcuwksxln.supabase.co',
-  supabasePublishableKey: 'https://lluwivvpjtfmcuwksxln.supabase.co/rest/v1/'
+  supabasePublishableKey: 'sb_publishable_XCzw7BtWyc_8UwEXJH1e_A_eCIiLXzf'
 };
